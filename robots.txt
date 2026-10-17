@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hyeonhyeon0803.github.io/sitemap.xml
