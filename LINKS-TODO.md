@@ -5,3 +5,6 @@
 - posts/oneroom-dehumidifier-winter.html / 위닉스뽀송 12L DXTH120-NEK
 - posts/oneroom-dehumidifier-winter.html / 데시칸트 제습기 (220V, KC 인증 소형)
 - posts/oneroom-dehumidifier-winter.html / 디지털 온습도계
+- posts/oneroom-air-purifier.html / 삼성 블루스카이 3100 공기청정기 (표준사용면적 33㎡)
+- posts/oneroom-air-purifier.html / 샤오미 스마트 공기청정기 4 컴팩트 (국내 정식 판매품)
+- posts/oneroom-air-purifier.html / 공기청정기 정품 교체 필터 (모델명 검색용 링크)
