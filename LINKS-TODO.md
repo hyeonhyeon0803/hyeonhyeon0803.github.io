@@ -8,3 +8,6 @@
 - posts/oneroom-air-purifier.html / 삼성 블루스카이 3100 공기청정기 (표준사용면적 33㎡)
 - posts/oneroom-air-purifier.html / 샤오미 스마트 공기청정기 4 컴팩트 (국내 정식 판매품)
 - posts/oneroom-air-purifier.html / 공기청정기 정품 교체 필터 (모델명 검색용 링크)
+- posts/oneroom-circulator.html / 신일 에어 서큘레이터 S11 (2026년형)
+- posts/oneroom-circulator.html / 신일 BLDC 에어서큘레이터 SIF-KF10Y
+- posts/oneroom-circulator.html / DC 모터 탁상형 소형 서큘레이터 (KC 인증)
