@@ -11,3 +11,6 @@
 - posts/oneroom-circulator.html / 신일 에어 서큘레이터 S11 (2026년형)
 - posts/oneroom-circulator.html / 신일 BLDC 에어서큘레이터 SIF-KF10Y
 - posts/oneroom-circulator.html / DC 모터 탁상형 소형 서큘레이터 (KC 인증)
+- posts/oneroom-mini-dryer.html / 위니아 미니 건조기 3kg (WWR03SGDV 계열)
+- posts/oneroom-mini-dryer.html / 미닉스 미니건조기 PRO+ 3.5kg
+- posts/oneroom-mini-dryer.html / 한일 UV살균 미니 의류건조기 HLD-5100W
