@@ -9,7 +9,8 @@
 - [ ] 1인가구 미니 세탁기·세탁건조기 비교
 - [x] 원룸 미니 건조기 추천: 겨울 빨래 건조 (oneroom-mini-dryer)
 - [x] 원룸 제습기 추천 (겨울 결로·장마 대비) (oneroom-dehumidifier-winter)
-- [ ] 자취 전기포트·커피머신 고르는 기준
+- [x] 자취 전기포트 고르는 기준 (jachwi-electric-kettle)
+- [ ] 자취 캡슐커피머신 고르는 기준
 - [x] 원룸 공기청정기 추천: 평형·필터 교체비 (oneroom-air-purifier)
 - [ ] 1인용 미니 냉장고·소형 김치냉장고 비교
 - [x] 원룸 서큘레이터 추천: 겨울 난방 순환·여름 냉방 (oneroom-circulator)

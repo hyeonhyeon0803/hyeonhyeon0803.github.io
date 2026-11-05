@@ -14,3 +14,6 @@
 - posts/oneroom-mini-dryer.html / 위니아 미니 건조기 3kg (WWR03SGDV 계열)
 - posts/oneroom-mini-dryer.html / 미닉스 미니건조기 PRO+ 3.5kg
 - posts/oneroom-mini-dryer.html / 한일 UV살균 미니 의류건조기 HLD-5100W
+- posts/jachwi-electric-kettle.html / 테팔 센스 전기포트 KO6931KR
+- posts/jachwi-electric-kettle.html / 키친아트 스테인리스 무선주전자 KP-36WT
+- posts/jachwi-electric-kettle.html / 일렉트로룩스 UltimateTaste 700 전기포트 E7EK1-60BP
