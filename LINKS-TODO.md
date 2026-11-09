@@ -17,3 +17,6 @@
 - posts/jachwi-electric-kettle.html / 테팔 센스 전기포트 KO6931KR
 - posts/jachwi-electric-kettle.html / 키친아트 스테인리스 무선주전자 KP-36WT
 - posts/jachwi-electric-kettle.html / 일렉트로룩스 UltimateTaste 700 전기포트 E7EK1-60BP
+- posts/single-carbon-mat.html / 한일의료기 탄소매트 HL-S205
+- posts/single-carbon-mat.html / 귀뚜라미 카본매트 KDM-921
+- posts/single-carbon-mat.html / 듀플렉스 전기요 SS (1인용 탄소매트)
