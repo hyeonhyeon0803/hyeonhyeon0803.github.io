@@ -3,7 +3,7 @@
 - [x] 원룸 가습기 추천 (oneroom-humidifier)
 - [x] 전기요 vs 온수매트 (electric-blanket-vs-water-mat)
 - [x] 원룸 미니 히터 추천 (oneroom-mini-heater)
-- [ ] 1인용 전기밥솥 추천: 3인용·미니 밥솥 비교
+- [x] 1인용 전기밥솥 추천: 3인용·미니 밥솥 비교 (single-rice-cooker)
 - [ ] 자취 에어프라이어 추천: 용량·바스켓형 vs 오븐형
 - [ ] 원룸 무선청소기 추천: 가격대별 흡입력·무게
 - [ ] 1인가구 미니 세탁기·세탁건조기 비교
