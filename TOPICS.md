@@ -5,7 +5,7 @@
 - [x] 원룸 미니 히터 추천 (oneroom-mini-heater)
 - [x] 1인용 전기밥솥 추천: 3인용·미니 밥솥 비교 (single-rice-cooker)
 - [ ] 자취 에어프라이어 추천: 용량·바스켓형 vs 오븐형
-- [ ] 원룸 무선청소기 추천: 가격대별 흡입력·무게
+- [x] 원룸 무선청소기 추천: 가격대별 흡입력·무게 (oneroom-cordless-vacuum)
 - [ ] 1인가구 미니 세탁기·세탁건조기 비교
 - [x] 원룸 미니 건조기 추천: 겨울 빨래 건조 (oneroom-mini-dryer)
 - [x] 원룸 제습기 추천 (겨울 결로·장마 대비) (oneroom-dehumidifier-winter)

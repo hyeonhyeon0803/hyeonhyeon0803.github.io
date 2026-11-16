@@ -23,3 +23,6 @@
 - posts/single-rice-cooker.html / 쿠쿠 IH 압력밥솥 3인용 CRP-EHS0320F (재고 없으면 후속 모델)
 - posts/single-rice-cooker.html / 쿠첸 브레인 미니 IH 전기압력밥솥 3인용 CRT-TWK0370W
 - posts/single-rice-cooker.html / 쿠쿠 전기밥솥 3인용 CR-0375F
+- posts/oneroom-cordless-vacuum.html / 삼성 제트 핏 무선청소기 (2025년 12월 출시, 1.96kg)
+- posts/oneroom-cordless-vacuum.html / 삼성 비스포크 AI 제트 Lite VS28D950AIW
+- posts/oneroom-cordless-vacuum.html / 디베아 차이슨 무선청소기 THE MAX
