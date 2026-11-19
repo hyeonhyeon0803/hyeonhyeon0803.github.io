@@ -26,3 +26,6 @@
 - posts/oneroom-cordless-vacuum.html / 삼성 제트 핏 무선청소기 (2025년 12월 출시, 1.96kg)
 - posts/oneroom-cordless-vacuum.html / 삼성 비스포크 AI 제트 Lite VS28D950AIW
 - posts/oneroom-cordless-vacuum.html / 디베아 차이슨 무선청소기 THE MAX
+- posts/jachwi-air-fryer.html / 필립스 에어프라이어 3000 시리즈 HD9100 (3.7L, 국내 정식 판매품)
+- posts/jachwi-air-fryer.html / 쿠쿠 에어프라이어 오븐 12L CAFO-B1210TG
+- posts/jachwi-air-fryer.html / 키친아트 에어프라이어 KAFJ-560M (재고 없으면 후속 모델)
